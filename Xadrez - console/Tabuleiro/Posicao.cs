@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tabuleiro
+namespace Xadrez___console.tabuleiro
 {
-    internal class Posicao
+    public class Posicao
     {
         public int Linha { get; set; }
         public int Coluna { get; set; }
